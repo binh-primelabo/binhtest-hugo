@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo 101 on Welcome to Hugo Template</title>
+    <link>https://example.com/fr/series/hugo-101/</link>
+    <description>Recent content in Hugo 101 on Welcome to Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/fr/series/hugo-101/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emojide Supportde -- Test</title>
+      <link>https://example.com/fr/posts/2023/11/emojide-supportde--test/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/fr/posts/2023/11/emojide-supportde--test/</guid>
+      <description>&lt;p&gt;Emojis können in einem Hugo-Projekt auf verschiedene Weise aktiviert werden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emojide Supportde Oldde -- Testde</title>
+      <link>https://example.com/fr/posts/2021/11/emojide-supportde-oldde--testde/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/fr/posts/2021/11/emojide-supportde-oldde--testde/</guid>
+      <description>&lt;p&gt;Emojis können in einem Hugo-Projekt auf verschiedene Weise aktiviert werden.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
