@@ -2,181 +2,181 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/posts/2023/11/emojide-supportde--test/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/11/emojide-supportde--test/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2023/11/emoji-support--test/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2023/11/emoji-support--test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2023/11/emojide-supportde--test/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/11/emojide-supportde--test/"
                 />
   </url><url>
-    <loc>https://example.com/fr/posts/2021/11/emojide-supportde-oldde--testde/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2021/11/emojide-supportde-oldde--testde/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2021/11/emoji-support-old--test/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2021/11/emoji-support-old--test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2021/11/emojide-supportde-oldde--testde/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2021/11/emojide-supportde-oldde--testde/"
                 />
   </url><url>
-    <loc>https://example.com/fr/series/hugo-101/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/series/hugo-101/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/hugo-101/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/series/hugo-101/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/hugo-101/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/series/hugo-101/"
                 />
   </url><url>
-    <loc>https://example.com/fr/posts/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/"
                 />
   </url><url>
-    <loc>https://example.com/fr/series/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/series/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/series/"
                 />
   </url><url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/"
                 />
   </url><url>
-    <loc>https://example.com/fr/test/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/test/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/test/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/test/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/test/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/categories/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/posts/2023/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2023/09/creating-a-new-theme/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2023/09/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2023/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/hugo/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/categories/hugo/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/fr/posts/2023/04/d%C3%A9buter-avec-hugo/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/04/d%C3%A9buter-avec-hugo/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2023/04/getting-started-with-hugo/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2023/04/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2023/04/d%C3%A9buter-avec-hugo/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/04/d%C3%A9buter-avec-hugo/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/go/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/categories/go/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/fr/posts/2023/04/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/04/introduction-aux-mod%C3%A8les-hugo/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2023/04/hugo-template-primer/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2023/04/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2023/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/jekyll/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/categories/jekyll/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/fr/posts/2023/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/03/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2023/03/migrate-to-hugo-from-jekyll/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/posts/2023/03/migrate-to-hugo-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2023/03/migrer-vers-hugo-depuis-jekyll/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/posts/2023/03/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://binh-primelabo.github.io/binhtest-hugo/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://binh-primelabo.github.io/binhtest-hugo/fr/tags/"
                 />
   </url>
 </urlset>
